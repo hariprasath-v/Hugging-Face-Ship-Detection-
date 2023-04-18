@@ -1,5 +1,12 @@
 # HuggingFace-Ship-Detection
 
+## Public Leaderboard
+* Rank : 12
+* Score : 0.7719
+## Private Leaderboard
+* Rank : 12
+* Score : 0.6827
+
 ### Competition hosted on <a href="https://hf.co/spaces/competitions/ship-detection">Huggingface</a>
 
 ### Problem
